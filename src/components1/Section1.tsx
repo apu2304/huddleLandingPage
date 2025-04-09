@@ -17,17 +17,17 @@ const Section1 = () => {
                 ">Get Started For Free</button>
             </div >
             <div className="px-8 py-6 flex justify-center items-center">
-                <img src="/assets/images/screen-mockups.svg" alt="" className="w-[100%] md:w-[80%]"/>
+                <img src="assets/images/screen-mockups.svg" alt="" className="w-[100%] md:w-[80%]"/>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-60 px-6 py-3">
                <div className="flex flex-col justify-center">
-               <img src="/assets/images/icon-communities.svg" alt=""
+               <img src="assets/images/icon-communities.svg" alt=""
                className="w-[20%] md:w-[30%] h-[30%] md:h-[40%] mb-2" />
                  <h1 className="text-[var(--gunmetal)] text-5xl md:text-6xl font-bold mb-3">1.4k+</h1>
                  <p className="text-lg md:text-2xl">Communities Formed</p>
                </div>
                <div className="flex flex-col justify-center">
-                <img src="/assets/images/icon-messages.svg" alt="" 
+                <img src="assets/images/icon-messages.svg" alt="" 
                 className="w-[20%] md:w-[30%] h-[30%] md:h-[40%] mb-2"/>
                  <h1 className="text-[var(--gunmetal)] text-5xl md:text-6xl font-bold mb-3">2.7m+</h1>
                  <p className="text-lg md:text-2xl">Messages Sent</p>
